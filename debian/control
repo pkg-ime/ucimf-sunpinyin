@@ -2,7 +2,7 @@ Source: ucimf-sunpinyin
 Section: utils
 Priority: optional
 Maintainer: Aron Xu <aron@debian.org>
-Build-Depends: debhelper (>= 7.0.50~), autotools-dev, pkg-config
+Build-Depends: debhelper (>= 7.0.50~), autotools-dev, pkg-config,
  libucimf-dev, libsunpinyin-dev
 Standards-Version: 3.9.2
 Homepage: http://code.google.com/p/ucimf/
