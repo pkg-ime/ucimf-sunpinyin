@@ -1,3 +1,4 @@
 #!/usr/bin/make -f
+LDFLAGS += -Wl,--as-needed
 %:
 	dh $@ 
