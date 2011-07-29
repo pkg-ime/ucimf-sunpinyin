@@ -1,0 +1,5 @@
+ucimf-sunpinyin (0.4-1) unstable; urgency=low
+
+  * Initial release (Closes: #612045)
+
+ -- Aron Xu <aron@debian.org>  Sat, 30 Jul 2011 01:21:34 +0800

@@ -1,0 +1,21 @@
+Source: ucimf-sunpinyin
+Section: utils
+Priority: optional
+Maintainer: Aron Xu <aron@debian.org>
+Build-Depends: debhelper (>= 7.0.50~), autotools-dev
+Standards-Version: 3.9.2
+Homepage: http://code.google.com/p/ucimf/
+Vcs-Git: git://git.debian.org/pkg-ime/ucimf-sunpinyin.git
+Vcs-Browser: http://git.debian.org/?p=pkg-ime/ucimf-sunpinyin.git
+
+Package: ucimf-sunpinyin
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: ucimf wrapper for Sunpinyin IM engine
+ ucimf-sunpinyin is a wrapper for Sunpinyin IM engine for the
+ Linux framebuffer console input method framework.
+ .
+ Sunpinyin is a statistical language model (SLM) based input
+ method engine for Simplified Chinese, it features full sentence
+ input.
+

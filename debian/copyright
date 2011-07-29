@@ -1,0 +1,28 @@
+Format: http://dep.debian.net/deps/dep5/
+Upstream-Name: ucimf-sunpinyin
+Upstream-Contact: Chun-Yu Lee (Mat) <MatLinuxer2@gmail.com> 
+Source: http://code.google.com/p/ucimf
+
+Files: *
+Copyright: 2010, Chun-Yu Lee (Mat) <MatLinuxer2@gmail.com>
+License: GPL-2+
+ This package is free software; you can redistribute it and/or 
+ modify it under the terms of the GNU General Public License 
+ version 2 as published by the Free Software Foundation.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this package; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin St, Fifth Floor, 
+ Boston, MA  02110-1301 USA
+ .
+ On Debian systems, the full text of the Apache License version 2.0
+ can be found in the file `/usr/share/common-licenses/Apache-2.0'.
+
+Files: debian/*
+Copyright: 2011, Aron Xu <aron@debian.org>
+License: GPL-2+
